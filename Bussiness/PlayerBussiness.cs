@@ -38,7 +38,7 @@ namespace Bussiness
                 player.Grade = 1;
                 player.ID = 0;
                 player.Luck = 0;
-                player.Money = money;
+                player.Money = 99999999;
                 player.NickName = "";
                 player.Sex = sex;
                 player.State = 0;
